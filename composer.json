@@ -1,0 +1,24 @@
+{
+  "name": "yifei/aliyuncs",
+  "description": "Aliyun CS SDK for PHP",
+  "homepage": "https://help.aliyun.com/document_detail/50180.html?spm=a2c4g.11186623.6.705.2f4279812drkI6",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liuda",
+      "email": "liuda@xiaoshiji.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "files": [
+      "./aliyun-log-php-sdk/Log_Autoload.php"
+    ]
+  },
+  "version": "1.0.0"
+
+}
