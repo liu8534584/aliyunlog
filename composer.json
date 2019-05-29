@@ -1,7 +1,7 @@
 {
-  "name": "yifei/aliyuncs",
-  "description": "Aliyun CS SDK for PHP",
-  "homepage": "https://help.aliyun.com/document_detail/50180.html?spm=a2c4g.11186623.6.705.2f4279812drkI6",
+  "name": "yifei/aliyunlog",
+  "description": "AliYun Log SDK for PHP",
+  "homepage": "https://www.aliyun.com",
   "type": "library",
   "license": "MIT",
   "authors": [
